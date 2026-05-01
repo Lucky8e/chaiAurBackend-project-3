@@ -1,0 +1,12 @@
+{
+  "name": "03-backendroject",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "lucky",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
